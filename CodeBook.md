@@ -14,6 +14,7 @@ WALKING_DOWNSTAIRS
 SITTING
 STANDING
 LAYING
+
 ## The tidy data contains 6 rows (averaged based on activity) and 68 columns (66 variables and activity labels).
 "activitylabel"
 "subject"
